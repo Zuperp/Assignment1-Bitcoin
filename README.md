@@ -1,6 +1,11 @@
 # Assignment1-Bitcoin
 
-The bitcoin server is already supposed to be running when you interact with this GUI application.
+It contains the Config file which changes the mode to regtest, this means that you're not interacting with other nodes than on your local machiene, not even test nodes.
+
+There is a stop and start script to run the server.
+
+
+
 
 The gui contains, in order:
 
