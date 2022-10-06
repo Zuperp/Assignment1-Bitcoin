@@ -12,5 +12,6 @@ A field where the generated address is, use this to paste into the target addres
 
 The field you copy the address into.
 
-A field that takes the amount you want to send from the main wallet, to the second generated wallet. And a send button
+A field that takes the amount you want to send from the main wallet, to the second generated wallet. And a send button.
+
 The balance that's on the main wallet, and the info from running the listunspent command, which only shows up if you click the button below, which updates balance and displays the list unspent string.
